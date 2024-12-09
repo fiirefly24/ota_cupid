@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Fikri",
+			"oem": "Xiaomi",
+			"device": "Xiaomi 12",
+			"filename": "RisingOS-6.0-STABLE-24121403-GAPPS-COMMUNITY-cupid-ota.zip",
+			"download": "https://sourceforge.net/projects/fiirefly24-release/files/risingOS/RisingOS-6.0-STABLE-24121403-GAPPS-COMMUNITY-cupid-ota.zip/download",
+			"timestamp": 1734089965,
+			"md5": "f5314a822728578c8f6b4550925df89d",
+			"sha256": "34f7d0dc6f0daae74a6db1d7fb48f556d6ebf6d37cd62d972b67e89895302c7a",
+			"size": 2915504260,
+			"version": "6.0-Ascension",
+			"buildtype": "STABLE",
+			"forum": "",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "https://paypal.me/ppfikri",
+			"telegram": "https://t.me/fikritehcelup",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
